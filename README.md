@@ -18,4 +18,6 @@ About:
   
 - 📫 Reach me at: harshvardhansingh0171@gmail.com
 
+[![Harsh’s github stats](https://github-readme-stats.vercel.app/api?username=harshvardhan0303)](https://github.com/harshvardhan0303)
+
 
