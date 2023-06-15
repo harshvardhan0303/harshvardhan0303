@@ -1,3 +1,4 @@
+
 ### Hi there 👋 Harsh Vardhan Singh
 
 About:
@@ -18,9 +19,7 @@ About:
   
 - 📫 Reach me at: harshvardhansingh0171@gmail.com
 
-[<a><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> </a>](https://github.com/harshvardhan0303)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harsh-vardhan-singh-9a1563219/) 
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="40px" height='40'>](https://github.com/harshvardhan0303)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="40px" height='40'>](https://www.linkedin.com/in/harsh-vardhan-singh-9a1563219/) 
 
 
 [![Harsh’s github stats](https://github-readme-stats.vercel.app/api?username=harshvardhan0303)](https://github.com/harshvardhan0303)
