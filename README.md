@@ -16,9 +16,10 @@ About:
 -🏆 Finalist in ABSC Hackathon(Intra-University Competition) organised by ABES Engineering College , Ghaziabad.
 
   Skills: Data Analysis | Data Visualization | MS Excel | Power BI | Tableau | SQL |Data Structure | Algorithms | Statistics and Probability | Data Cleaning | Python | C++ 
-        </h3>
+        
   
 - 📫 Reach me at: harshvardhansingh0171@gmail.com
+  </h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="40px" height='40'>](https://github.com/harshvardhan0303)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="40px" height='40'>](https://www.linkedin.com/in/harsh-vardhan-singh-9a1563219/) 
 
