@@ -1,6 +1,6 @@
 
-### Hi there 👋 Harsh Vardhan Singh
-
+<h2>### Hi there 👋 Harsh Vardhan Singh</h2>
+<h4>
 About:
 
 - 🔭 I’m a third-year B.Tech student in Computer Science Engineering at VIT.
@@ -16,6 +16,7 @@ About:
 -🏆 Finalist in ABSC Hackathon(Intra-University Competition) organised by ABES Engineering College , Ghaziabad.
 
   Skills: Data Analysis | Data Visualization | MS Excel | Power BI | Tableau | SQL |Data Structure | Algorithms | Statistics and Probability | Data Cleaning | Python | C++ 
+        </h4>
   
 - 📫 Reach me at: harshvardhansingh0171@gmail.com
 
