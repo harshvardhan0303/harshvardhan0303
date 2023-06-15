@@ -1,6 +1,6 @@
 
 <h2>### Hi there 👋 Harsh Vardhan Singh</h2>
-<h3>
+<p style = "font-size :100px;">
 About:
 
 - 🔭 I’m a third-year B.Tech student in Computer Science Engineering at VIT.
@@ -19,7 +19,7 @@ About:
         
   
 - 📫 Reach me at: harshvardhansingh0171@gmail.com
-  </h3>
+  </p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="40px" height='40'>](https://github.com/harshvardhan0303)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="40px" height='40'>](https://www.linkedin.com/in/harsh-vardhan-singh-9a1563219/) 
 
