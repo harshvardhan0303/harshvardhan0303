@@ -3,7 +3,7 @@
 <p style = "font-size :100px;">
 About:
 
-- 🔭 I’m a third-year B.Tech student in Computer Science Engineering at VIT.
+- 🔭 I’m a fourth-year B.Tech student in Computer Science Engineering at VIT.
 
 - 🔭 I’m really passionate about Data Analysis,Data Visualization and Interpretation.
 
