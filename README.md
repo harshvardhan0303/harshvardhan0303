@@ -1,5 +1,5 @@
 
-<h2>Hi there 👋 Harsh Vardhan Singh</h2>
+<h2>Hi there Harsh Vardhan Singh</h2>
 <p style = "font-size :100px;">
 About:
 
